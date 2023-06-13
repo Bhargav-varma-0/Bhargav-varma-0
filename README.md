@@ -8,7 +8,7 @@
     <a href="www.linkedin.com/in/bhargav-varma-kokkiligadda">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
-    <a href="https://twitter.com/MyHeartIsStone0?t=_l6QNCaaOrLxT-I8IRXPoA&s=09">
+    <a href="https://twitter.com/MyHeartIsStone0">
         <img src="https://img.shields.io/badge/Twittwer-white?style=flat-square&logo=twitter" alt="Twitter">
     </a>
 <!--     <a href="https://www.kaggle.com/wervlad">
