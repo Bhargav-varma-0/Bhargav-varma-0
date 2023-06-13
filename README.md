@@ -8,6 +8,9 @@
     <a href="www.linkedin.com/in/bhargav-varma-kokkiligadda">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
+    <a href="www.linkedin.com/in/bhargav-varma-kokkiligadda">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+    </a>
 <!--     <a href="https://www.kaggle.com/wervlad">
         <img src="https://img.shields.io/badge/Kaggle-blue?style=flat-square&logo=kaggle" alt="Kaggle">
     </a>
