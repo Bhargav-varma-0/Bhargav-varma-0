@@ -5,7 +5,7 @@
         I'm Bhargav.<br>
         Currently Wokring on Fultter, Also knows React js.<br>
     </b><br>
-    <a href="www.linkedin.com/in/bhargav-varma-kokkiligadda">
+    <a href="https://www.linkedin.com/in/bhargav-varma-kokkiligadda">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
     <a href="https://twitter.com/MyHeartIsStone0">
